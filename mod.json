@@ -6,7 +6,7 @@
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "thyrocytes.visible_slider_backgrounds",
+	"id": "reallynewb.visible_slider_backgrounds",
 	"name": "Visible Slider Backgrounds",
 	"version": "v1.3.0",
 	"developer": "Thyrocytes",
@@ -29,4 +29,5 @@
 			"importance": "required"
 		}
 	}
+
 }
