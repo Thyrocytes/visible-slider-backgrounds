@@ -10,7 +10,7 @@
 
 * Made <cf>minor optimization</c> changes in the code.
 
-* Deleted <cl>Ignore Editor Slider</c> setting. Editor slider background is now <cr>invisible</c> by default.
+* Deleted <cl>Ignore Editor Slider</c> setting. Editor slider bar is now <cr>invisible</c> by default.
 
 # v1.2.0
 
@@ -24,9 +24,9 @@
 
 # v1.1.1
 
-* Fixed editor slider background being a bit <cr>misaligned.</c>
+* Fixed editor slider bar being a bit <cr>misaligned.</c>
 
-* Added ability to <cj>toggle editor slider background visibility.</c>
+* Added ability to <cj>toggle editor slider bar visibility.</c>
 
 # v1.1.0
 
