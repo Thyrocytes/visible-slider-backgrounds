@@ -1,6 +1,6 @@
 # v1.3.2
 
-* In preparation for <cl>Geode v5,</c> I made a <cb>few minor changes</c> to some of the mod's files.
+* <cp>Bumped Geode to v5</c> and made a few <ca>minor changes</c> in some of the mod's files.
 
 # v1.3.1
 
