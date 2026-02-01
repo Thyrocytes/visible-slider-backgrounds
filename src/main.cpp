@@ -7,12 +7,12 @@ class $modify(Slider) {
 
 		this->runAction(geode::cocos::CallFuncExt::create([this] {
 			if (this->getID() == "position-slider") return;
+			this->updateBar();
 
-			auto* bar = this->m_sliderBar;
 			bool isScaleControl = geode::cast::typeinfo_cast<GJScaleControl*>(this->getParent());
 
-			if (isScaleControl) bar->setPositionY(2.f);
-			bar->setVisible(!geode::Mod::get()->getSettingValue<bool>("opposite-day"));
+			if (isScaleControl) m_sliderBar->setPositionY(2.f);
+			m_sliderBar->setVisible(!geode::Mod::get()->getSettingValue<bool>("opposite-day"));
 		}));
 
 		return true;
