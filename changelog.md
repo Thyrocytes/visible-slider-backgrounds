@@ -2,6 +2,10 @@
 
 * <cp>Bumped Geode to v5</c> and made a <ca>few minor changes</c> in some of the <cp>mod's files.</c>
 
+* <cp>Fixed a bug</c> where <ca>slider bars</c> wouldn't be <cp>attached to the thumb</c> in <ca>Mixed Trigger UIs.</c>
+
+* <cp>Changed the name of the mod</c> to <ca>Visible Slider Bars</c> from <cp>Visible Slider Backgrounds.</c>
+
 # v1.3.1
 
 * Used <cp>CallFuncExt</c> instead of <ca>queueInMainThread</c> (thanks <ca>Alphalaneous</c> for the tip).
