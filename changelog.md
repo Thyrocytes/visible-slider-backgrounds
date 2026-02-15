@@ -49,5 +49,5 @@
 * Changed parts of the code to be a little bit more cleaner.
 
 # v1.0.0
-* Initial release. Slider bars are visible **everywhere** now, yay!
 
+* Initial release. Slider bars are visible **everywhere** now, yay!
