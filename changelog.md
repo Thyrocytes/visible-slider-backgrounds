@@ -1,4 +1,4 @@
-# v5 Release
+# Releases for Geode v5
 
 ## v1.3.2, v1.3.3, v1.3.4, and v1.3.5
 
